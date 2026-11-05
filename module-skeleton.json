@@ -1,0 +1,15 @@
+{
+  "repository": "module-analytics-contracts-nextjs",
+  "capabilityKey": "liberusoftware/analytics-contracts",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-analytics-contracts-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/analytics-contracts.md",
+  "presentationPlan": "projects/crm/nextjs/analytics-contracts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
